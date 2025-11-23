@@ -1,9 +1,10 @@
-import cv2
-
-print("Smart Attendance System - Camera Check")
-camera = cv2.VideoCapture(0)
-
-if camera.isOpened():
-    print("Camera detected successfully.")
-else:
-    print("Unable to access camera.")
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Welcome to My Portfolio</h1>
+  <p>This is a sample website for showcasing my work.</p>
+</body>
+</html>
